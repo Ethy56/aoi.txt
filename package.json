@@ -1,0 +1,30 @@
+{
+  "name": "aoi.txt",
+  "version": "1.0.0",
+  "description": "Code with aoi.js using .txt files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethy56/aoi.txt.git"
+  },
+  "keywords": [
+    "aoi.js",
+    "aoi",
+    "discord",
+    "txt",
+    "text"
+  ],
+  "author": "Ethy56",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ethy56/aoi.txt/issues"
+  },
+  "homepage": "https://github.com/Ethy56/aoi.txt#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
